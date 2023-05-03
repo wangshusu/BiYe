@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T14:46:47.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64" etag="lS5euQlWNhO3t-azxj4Z" version="21.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T14:46:59.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64" etag="y86nONLfBSpFp24A6RFK" version="21.2.4" type="github">
   <diagram name="第 1 页" id="1pbirYVuTmxY0LQ_dK6s">
-    <mxGraphModel dx="1148" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="888" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,8 +181,11 @@
         <mxCell id="UXYYCV9TnuVSODTEF9GF-12" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190.5" y="420" width="99" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="UXYYCV9TnuVSODTEF9GF-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UXYYCV9TnuVSODTEF9GF-38" target="UXYYCV9TnuVSODTEF9GF-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UXYYCV9TnuVSODTEF9GF-38" value="电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="80" width="100" height="30" as="geometry" />
+          <mxGeometry x="1760" y="90" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UXYYCV9TnuVSODTEF9GF-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.005;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UXYYCV9TnuVSODTEF9GF-39" target="UXYYCV9TnuVSODTEF9GF-44">
           <mxGeometry relative="1" as="geometry" />
