@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T14:46:59.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64" etag="y86nONLfBSpFp24A6RFK" version="21.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T15:14:44.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64" etag="VsYBKD-OmwfXHSWvMexA" version="21.2.4" type="github">
   <diagram name="第 1 页" id="1pbirYVuTmxY0LQ_dK6s">
-    <mxGraphModel dx="888" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="888" dy="487" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,66 +184,66 @@
         <mxCell id="UXYYCV9TnuVSODTEF9GF-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UXYYCV9TnuVSODTEF9GF-38" target="UXYYCV9TnuVSODTEF9GF-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UXYYCV9TnuVSODTEF9GF-38" value="电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="90" width="100" height="30" as="geometry" />
+        <mxCell id="UXYYCV9TnuVSODTEF9GF-38" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="90" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UXYYCV9TnuVSODTEF9GF-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.005;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UXYYCV9TnuVSODTEF9GF-39" target="UXYYCV9TnuVSODTEF9GF-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UXYYCV9TnuVSODTEF9GF-39" value="红外遥控模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="210" width="100" height="30" as="geometry" />
+        <mxCell id="UXYYCV9TnuVSODTEF9GF-39" value="红外遥控模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="210" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UXYYCV9TnuVSODTEF9GF-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.082;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UXYYCV9TnuVSODTEF9GF-40" target="UXYYCV9TnuVSODTEF9GF-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1780" y="130" as="targetPoint" />
+            <mxPoint x="1920" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UXYYCV9TnuVSODTEF9GF-40" value="按键模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="160" width="100" height="30" as="geometry" />
+        <mxCell id="UXYYCV9TnuVSODTEF9GF-40" value="按键模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="160" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UXYYCV9TnuVSODTEF9GF-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.636;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UXYYCV9TnuVSODTEF9GF-41" target="UXYYCV9TnuVSODTEF9GF-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UXYYCV9TnuVSODTEF9GF-41" value="时钟模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="260" width="100" height="30" as="geometry" />
+        <mxCell id="UXYYCV9TnuVSODTEF9GF-41" value="时钟模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="260" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UXYYCV9TnuVSODTEF9GF-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.005;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UXYYCV9TnuVSODTEF9GF-42" target="UXYYCV9TnuVSODTEF9GF-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UXYYCV9TnuVSODTEF9GF-42" value="光敏电阻模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="310" width="100" height="30" as="geometry" />
+        <mxCell id="UXYYCV9TnuVSODTEF9GF-42" value="光敏电阻模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="310" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UXYYCV9TnuVSODTEF9GF-44" value="单片机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="160" width="100" height="180" as="geometry" />
+        <mxCell id="UXYYCV9TnuVSODTEF9GF-44" value="单片机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="160" width="100" height="180" as="geometry" />
         </mxCell>
         <mxCell id="UXYYCV9TnuVSODTEF9GF-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UXYYCV9TnuVSODTEF9GF-45" target="UXYYCV9TnuVSODTEF9GF-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UXYYCV9TnuVSODTEF9GF-45" value="电机驱动模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="160" width="90" height="70" as="geometry" />
+        <mxCell id="UXYYCV9TnuVSODTEF9GF-45" value="电机驱动模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="160" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UXYYCV9TnuVSODTEF9GF-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UXYYCV9TnuVSODTEF9GF-46" target="UXYYCV9TnuVSODTEF9GF-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UXYYCV9TnuVSODTEF9GF-46" value="液晶显示模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="270" width="90" height="70" as="geometry" />
+        <mxCell id="UXYYCV9TnuVSODTEF9GF-46" value="液晶显示模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="270" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UXYYCV9TnuVSODTEF9GF-47" value="步进电机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="160" width="90" height="70" as="geometry" />
+        <mxCell id="UXYYCV9TnuVSODTEF9GF-47" value="步进电机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="160" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UXYYCV9TnuVSODTEF9GF-48" value="LCD1602液晶显示屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="270" width="90" height="70" as="geometry" />
+        <mxCell id="UXYYCV9TnuVSODTEF9GF-48" value="LCD1602液晶显示屏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="270" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UXYYCV9TnuVSODTEF9GF-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="UXYYCV9TnuVSODTEF9GF-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1860" y="195" as="sourcePoint" />
-            <mxPoint x="1950" y="180" as="targetPoint" />
+            <mxPoint x="2000" y="195" as="sourcePoint" />
+            <mxPoint x="2090" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UXYYCV9TnuVSODTEF9GF-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.998;exitY=0.805;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UXYYCV9TnuVSODTEF9GF-44" target="UXYYCV9TnuVSODTEF9GF-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1870" y="210" as="sourcePoint" />
-            <mxPoint x="1909" y="210" as="targetPoint" />
+            <mxPoint x="2010" y="210" as="sourcePoint" />
+            <mxPoint x="2049" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
